@@ -1,0 +1,16 @@
+CREDIT
+Room number: 1
+Name: Virupaxappa
+EmailID: vvtigadi@gmail.com
+Aadhar: 1234567890Cabin Type Selected: No-Mad
+Amount: 4000
+Mode of payment: Cash
+
+CREDIT
+Room number: 2
+Name: Asha
+EmailID: asha@gmail.com
+Aadhar: 1234569087Cabin Type Selected: No-Mad
+Amount: 2000
+Mode of payment: Card
+

@@ -1,0 +1,2 @@
+     Name               Cabin Number               Amount Paid                Cabin Type
+      Asha                         2                    1600.0                    No-Mad 

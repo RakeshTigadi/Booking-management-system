@@ -1,0 +1,4 @@
+Cabin Number                     Name                                            Address                  Email Id              Aadhar detail          Cabin Type Opted              Checkin Time
+
+         1               Virupaxappa                               Tigadi House Dharwad        vvtigadi@gmail.com                1234567890                    No-Mad              2022-04-11 16:46:55.835794
+         2                      Asha                                        Pawar House            asha@gmail.com                1234569087                    No-Mad              2022-04-11 16:49:06.787720

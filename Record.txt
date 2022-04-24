@@ -1,0 +1,4 @@
+     Name               Cabin Number               Amount Paid                Cabin Type
+
+Virupaxappa                         1                    3200.0                    No-Mad 
+      Asha                         2                    1600.0                    No-Mad 
